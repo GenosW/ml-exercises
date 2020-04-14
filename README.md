@@ -18,3 +18,11 @@ Classification: [Carabana - Don't get kicked](https://www.openml.org/d/41162)
 ## Exercise 1:
 
 soon...
+
+## Cheat Sheets:
+
+Here is github repo with some cheat sheets for various Data Science/Machine Learning related cheat sheets:
+
+(https://github.com/abhat222/Data-Science--Cheat-Sheet)
+
+Other cheat sheets are saved in the folder of the same name.
