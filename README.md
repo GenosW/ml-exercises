@@ -23,6 +23,17 @@ Classification: [Carabana - Don't get kicked](https://www.openml.org/d/41162)
 
 **Submission deadline: 4.05.2020, 23:59**
 
+Choose 4 techniques from:
+
+    a) linear regression
+    b) polynominal regression
+    c) logarithmic regression
+    d) kNN
+    e) Lasso
+    f) Ridge
+    g) Regression tree
+    h) ...?
+
 You need to chose a total of 4 datasets.
 - 1 from exercise 0
 - 1 from Kaggle/UCI ML Repository (or other repositories)
