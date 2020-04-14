@@ -34,21 +34,75 @@ Bias correction of numerical prediction model temperature forecast Data Set
 http://archive.ics.uci.edu/ml/datasets/Bias+correction+of+numerical+prediction+model+temperature+forecast   
 Data Folder: http://archive.ics.uci.edu/ml/machine-learning-databases/00514/
 
+Some info:
+
+    > Number of Instances: 7750
+    > Number of Attributes: 25
+
+Verdict: 
+
+    > # of samples: med
+    > # of dimensions: med-high
+
 QSAR fish toxicity Data Set
 http://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicity
 Data Folder: http://archive.ics.uci.edu/ml/machine-learning-databases/00504/
+
+Some info:
+
+    > Number of Instances: 908
+    > Number of Attributes: 7
+
+Verdict: 
+
+    > # of samples: low
+    > # of dimensions: low
 
 Metro Interstate Traffic Volume Data Set
 http://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume
 Data Folder:http://archive.ics.uci.edu/ml/machine-learning-databases/00492/
 
+Some info:
+
+    > Number of Instances: 48204
+    > Number of Attributes: 9
+
+Verdict: 
+
+    > # of samples: high
+    > # of dimensions: low
+
 Real estate valuation data set Data Set
 http://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
 Data Folder: http://archive.ics.uci.edu/ml/machine-learning-databases/00477/
 
-### Dataset 1: Moneyball
+Some info:
 
-### Dataset 2: Video Games Sales (Kaggle) [?]
+    > Number of Instances: 414
+    > Number of Attributes: 7
+
+Verdict: 
+
+    > # of samples: low
+    > # of dimensions: low
+
+---
+
+### Dataset 1: Moneyball {low/low}
+
+Some info:
+
+    > Number of Instances: 1230
+    > Number of Attributes: 15
+
+Verdict: 
+
+    > # of samples: low
+    > # of dimensions: low-med
+
+---
+
+### Dataset 2: Video Games Sales (Kaggle) {high/low-med} [?]
 
 [Video Games Sales with Metacritic ratings](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)
 
@@ -63,13 +117,52 @@ Possible targets:
     > Sales: so either of ['NA_Sales', 'EU_Sales', 'JP_Sales', 'Other_Sales', 'Global_Sales']
     > Rating: so either of ['Critic_Score', 'User_Score']
 
-Depending on the target, we can 
+---
 
+### Dataset 3.a: Metro Interstate Traffic Volume Data Set {high/low}
 
+http://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume
+Data Folder:http://archive.ics.uci.edu/ml/machine-learning-databases/00492/
 
-### Dataset 3:
+Some info:
 
-### Dataset 4:
+    > Number of Instances: 48204
+    > Number of Attributes: 9
+
+Verdict: 
+
+    > # of samples: high
+    > # of dimensions: low
+
+### Dataset 3.b: Real estate valuation data set Data Set
+http://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
+Data Folder: http://archive.ics.uci.edu/ml/machine-learning-databases/00477/
+
+Some info:
+
+    > Number of Instances: 414
+    > Number of Attributes: 7
+
+Verdict: 
+
+    > # of samples: low
+    > # of dimensions: low
+
+---
+
+### Dataset 4: Bias correction of numerical prediction model temperature forecast Data Set {med/med}
+http://archive.ics.uci.edu/ml/datasets/Bias+correction+of+numerical+prediction+model+temperature+forecast   
+Data Folder: http://archive.ics.uci.edu/ml/machine-learning-databases/00514/
+
+Some info:
+
+    > Number of Instances: 7750
+    > Number of Attributes: 25
+
+Verdict: 
+
+    > # of samples: med
+    > # of dimensions: med-high
 
 ---
 
