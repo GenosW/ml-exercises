@@ -38,6 +38,7 @@ Some info:
 
     > Number of Instances: 7750
     > Number of Attributes: 25
+    > Missing Values: Yes
 
 Verdict: 
 
