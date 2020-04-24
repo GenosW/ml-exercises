@@ -21,6 +21,8 @@ Classification: [Carabana - Don't get kicked](https://www.openml.org/d/41162)
 
 ## Exercise 1:
 
+### Description
+
 **Submission deadline: 4.05.2020, 23:59**
 
 Choose 4 techniques from:
@@ -100,6 +102,36 @@ Verdict:
 
 ---
 
+### Meetings:
+
+Meeting 1: Fr., 24.04.2020
+
+Next meeting: Monday evening, 17:00
+
+Chosen:
+
+    a) linear regression
+    b) kNN
+    c) Lasso
+    d) random forest --> regression tree?
+
+How:
+
+    > Jupyter notebook
+    > bissl plots
+    > bissl code zum spielen
+    > bissl ergebnisse/fazits
+    > bissl pros/cons
+
+Who & what (on Moneyball):
+
+    a) linear regression    --> Alex
+    b) kNN                  --> Aleks
+    c) Lasso:               --> Code von Alex
+    d) random forest        --> Peter
+
+---
+
 ### Dataset 1: Moneyball {low/low}
 
 Some info:
@@ -114,7 +146,7 @@ Verdict:
 
 ---
 
-### Dataset 2: Video Games Sales (Kaggle) {high/low-med} [?]
+### Dataset 2: Video Games Sales (Kaggle) {med/low-med} [?]
 
 [Video Games Sales with Metacritic ratings](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)
 
@@ -131,7 +163,7 @@ Possible targets:
 
 ---
 
-### Dataset 3.a: Metro Interstate Traffic Volume Data Set {high/low}
+### Dataset 3: Metro Interstate Traffic Volume Data Set {high/low}
 
 http://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume
 Data Folder:http://archive.ics.uci.edu/ml/machine-learning-databases/00492/
@@ -146,7 +178,7 @@ Verdict:
     > # of samples: high
     > # of dimensions: low
 
-### Dataset 3.b: Real estate valuation data set Data Set
+<!-- ### Dataset 3.b: Real estate valuation data set Data Set
 http://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set
 Data Folder: http://archive.ics.uci.edu/ml/machine-learning-databases/00477/
 
@@ -158,7 +190,7 @@ Some info:
 Verdict: 
 
     > # of samples: low
-    > # of dimensions: low
+    > # of dimensions: low -->
 
 ---
 
