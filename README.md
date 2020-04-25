@@ -216,4 +216,7 @@ Here is github repo with some cheat sheets for various Data Science/Machine Lear
 
 https://github.com/abhat222/Data-Science--Cheat-Sheet
 
+https://www.youtube.com/watch?v=tODN7x3BO_E           three videos of linear regression 
+
+
 Other cheat sheets are saved in the folder of the same name.
