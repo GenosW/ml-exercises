@@ -9,6 +9,11 @@ Authors:
 
 ---
 
+The others:
+
+    - Cedrik und Co: Group 7
+    - Jan+Fabian: Group 33
+
 ## Exercise 0: Dataset registration & description
 
 Submission deadline: 25.03.2020, 23:59
