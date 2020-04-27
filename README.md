@@ -217,6 +217,8 @@ Verdict:
 
 ## Cheat Sheets:
 
+Free books on Data Science by Springer: https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
+
 Here is github repo with some cheat sheets for various Data Science/Machine Learning related cheat sheets:
 
 https://github.com/abhat222/Data-Science--Cheat-Sheet
