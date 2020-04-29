@@ -151,7 +151,9 @@ Verdict:
 
 ---
 
-### Dataset 2: Video Games Sales (Kaggle) {med/low-med} [?]
+### Dataset 2: Video Games Sales (Kaggle) {med/low-med}
+
+Dev: Peter
 
 [Video Games Sales with Metacritic ratings](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings)
 
@@ -172,6 +174,8 @@ Possible targets:
 
 http://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume
 Data Folder:http://archive.ics.uci.edu/ml/machine-learning-databases/00492/
+
+Dev: Alex L
 
 Some info:
 
@@ -200,8 +204,11 @@ Verdict:
 ---
 
 ### Dataset 4: Bias correction of numerical prediction model temperature forecast Data Set {med/med}
+
 http://archive.ics.uci.edu/ml/datasets/Bias+correction+of+numerical+prediction+model+temperature+forecast   
 Data Folder: http://archive.ics.uci.edu/ml/machine-learning-databases/00514/
+
+Dev: Aleks H
 
 Some info:
 
