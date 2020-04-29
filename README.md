@@ -9,6 +9,11 @@ Authors:
 
 ---
 
+The others:
+
+    - Cedrik und Co: Group 7
+    - Jan+Fabian: Group 33
+
 ## Exercise 0: Dataset registration & description
 
 Submission deadline: 25.03.2020, 23:59
@@ -211,6 +216,8 @@ Verdict:
 ---
 
 ## Cheat Sheets:
+
+Free books on Data Science by Springer: https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
 
 Here is github repo with some cheat sheets for various Data Science/Machine Learning related cheat sheets:
 
