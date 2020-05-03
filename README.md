@@ -234,5 +234,3 @@ https://www.youtube.com/watch?v=tODN7x3BO_E           three videos of linear reg
 
 
 Other cheat sheets are saved in the folder of the same name.
-
-https://github.com/ManojKumarMaruthi/Regression
