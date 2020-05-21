@@ -1,17 +1,20 @@
 # Exercise 2: Classification
 
+Next meeting: **28. - 31.5.2020**
+
 ## Description
 
 **Submission deadline: 9.06.2020, 23:59** (might change)
 
+**Presentation: 18.06.2020,  13:00 - 15:00, Zoom**
+
 Group#: 19
 
-Choose 4 techniques for classification from:
+Techniques:
 
     a) kNN
     b) RandomForest
-    c) Multilayer Perceptron
-    d) ...
+    c) Multilayer Perceptron: https://scikit-learn.org/stable/modules/neural_networks_supervised.html#classification
 
 You need to chose a total of 4 datasets.
 
@@ -25,18 +28,49 @@ Your submission should contain:
     - All your scripts, etc. that you created. If you used only a GUI and didn't create any software artefacts, please state that in your report
     - All the datasets that you used (except the ones from Kaggle)
 
+## Work flow
 
-## Dataset 1: Caravana
+    - Get your data sets:
+        – Your existing ones & from Kaggle
+    - Import data file, scale/encode data, other preprocessing
+    - Run classifiers (with different parameters)
+        – Select most interesting ones, ...
+        – Document any problems/findings
+        – Upload results from good algorithms to Kaggle
+        – Not necessary to implement algorithms
+        - Rely on libraries, modules etc.
+        - Code just for loading data, pre-processing,runningconfigurations, processing/aggregating results, ...
+    - Write your report
 
-## Dataset 2: ???
+## Dataset 1: Caravana (Ok/Nok)
 
-## Dataset 3: Breast Cancer (Small)
+DS: Aleks
+
+## Dataset 2: Wine Quality (Poor/Normal/Excellent)
+
+DS: Alex
+
+https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+
+Plan B: Zoo (/Mushroom)
+
+## Dataset 3: Breast Cancer (Small) (Ok/Nok)
+
+DS: Peter
 
 https://www.kaggle.com/c/184702-tu-ml-ws-19-breast-cancer/data
 
 ## Dataset 4: Amazon Review Data (Large)
 
+First everyone here:
+
+    - kNN: Aleks 
+    - RandomForest: Peter 
+    - MlP: Alex
+
 https://www.kaggle.com/c/184702-tu-ml-ws-19-amazon-commerce-reviews
+
+Our Group: SS20 - Group19
 
 ## Kaggle: How-To
 
