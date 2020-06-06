@@ -60,7 +60,9 @@ DS: Peter
 
 https://www.kaggle.com/c/184702-tu-ml-ws-19-breast-cancer/data
 
-A nice kernel from Kaggle: https://www.kaggle.com/vincentlugat/breast-cancer-analysis-and-prediction/comments
+A nice kernel from Kaggle (good visualization): https://www.kaggle.com/vincentlugat/breast-cancer-analysis-and-prediction/comments
+
+Another one: https://www.kaggle.com/buddhiniw/breast-cancer-prediction#Using-the-Wisconsin-breast-cancer-diagnostic-data-set-for-predictive-analysis
 
 ## Dataset 4: Amazon Review Data (Large)
 
