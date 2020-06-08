@@ -1,0 +1,2 @@
+labels = "Agresti,Ashbacher,Auken,Blankenship,Brody,Brown,Bukowsky,CFH,Calvinnme,Chachra,Chandler,Chell,Cholette,Comdet,Corn,Cutey,Davisson,Dent,Engineer,Goonan,Grove,Harp,Hayes,Janson,Johnson,Koenig,Kolln,Lawyeraau,Lee,Lovitt,Mahlers2nd,Mark,McKee,Merritt,Messick,Mitchell,Morrison,Neal,Nigam,Peterson,Power,Riley,Robert,Shea,Sherwin,Taylor,Vernon,Vision,Walters,Wilson"
+arr_labels = labels.split(",")
